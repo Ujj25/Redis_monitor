@@ -28,7 +28,7 @@ this requires [Node.js](https://nodejs.org/) v4+ to run, [NPM(Node Packege Manag
 $ npm install
 ```
 
-4: Now you are ready for run Application
+4: Now you are ready to run the Application
 ```sh
 $ npm start
 ```
