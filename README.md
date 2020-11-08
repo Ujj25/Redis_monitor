@@ -20,7 +20,7 @@ this requires [Node.js](https://nodejs.org/) v4+ to run, [NPM(Node Packege Manag
 
 1: Clone this Repository
 
-2: Change diractory
+2: Change directory
 
 3: Install the dependencies
 
